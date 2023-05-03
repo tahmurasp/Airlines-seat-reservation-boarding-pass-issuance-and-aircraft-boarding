@@ -29,7 +29,7 @@ This website is similar to the process of web login before flight boarding. This
 4. 'sql' contains the database file that has to be imported.
 5. 'Output Screenshots' contains the screenshots of the implementation.
 
-Author:## Developers
+## Developers
 
 - [Tahmuras Pirimov](https://github.com/tahmurasp) - Cybersecurity & Information Assurance, Methodist University '26
 
